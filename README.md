@@ -10,8 +10,8 @@ Description:
 
 Team portfolio application generates Team Org chart based on user Input.  It provides quick overview of Manager Hierarchy. 
 
-Website Access URL:
-https://tanujjain2015.github.io/teamprofilegenerator/
+Github Access URL:
+https://github.com/tanujjain2015/teamprofilegenerator
 
 Recording Link:
 https://drive.google.com/file/d/1i-dS5vOU9Oj5d5bAIouLOKtBuZn6FiN7/view 
